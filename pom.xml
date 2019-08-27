@@ -3,7 +3,6 @@
   <groupId>com.jdevs</groupId>
   <artifactId>studentapp</artifactId>
   <version>2.5-SNAPSHOT</version>
-  <version>2.5-release</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
